@@ -1,0 +1,7 @@
+bear
+camel
+goat
+leopard
+man
+ox
+tiger
